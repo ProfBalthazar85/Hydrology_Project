@@ -1,7 +1,11 @@
 
 !  --------------------------------------------------
 !  Class Project, Research and Teaching Methods 
+!  Written by Yasin Osroosh, Ph.D.
+!  mail: yosroosh@gmail.com
+!
 !  --------------------------------------------------
+
 PROGRAM CMEAN
         REAL :: MOS, PUL, YIJ, AMT_MAX, ADR_Intsity, AMT_Min
         REAL :: SUM_Prcp, SUM_Tmax, SUM_Tmin, AVG_Prcp, AM_Prcp, AND_Rainy, PD_Wet
