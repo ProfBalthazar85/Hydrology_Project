@@ -1,7 +1,7 @@
 
 !  --------------------------------------------------
 !  Class Project, Research and Teaching Methods 
-!  Written by Yasin Osroosh, Ph.D.
+!  Written by Y. Osroosh, Ph.D.
 !  mail: yosroosh@gmail.com
 !
 !  --------------------------------------------------
